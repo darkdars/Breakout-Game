@@ -72,6 +72,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
+* **Hugo Silva** - a21240009@isec.pt
+* **Carlos Santana** - a21240449@isec.pt
+
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
